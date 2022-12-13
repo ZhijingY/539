@@ -1,1 +1,1 @@
-# 539
+The procedure of running our code is really straightforward. Firstly, download our code and upload to Google Colab. Change the runtime type to GPU, and run all. After running it from the beginning to the end, graphs will be plotted automatically.
